@@ -12,6 +12,9 @@ def divide(a, b):
         return "Ошибка: деление на ноль"
     return a / b
 
+def remainder(a, b):
+    return a % b
+
 if __name__ == "__main__":
     # 
   Пример использования
